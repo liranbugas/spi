@@ -1,0 +1,2 @@
+gpio.c:15:6:gpio_ini	1
+gpio.c:46:6:gpio_out	2

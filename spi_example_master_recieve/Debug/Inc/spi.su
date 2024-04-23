@@ -1,0 +1,4 @@
+../Inc/spi.c:12:6:Spi_ini	4	static
+../Inc/spi.c:33:6:Spi_transmit	16	static
+../Inc/spi.c:50:6:Spi_recieve	16	static
+../Inc/spi.c:64:6:Spi_En	4	static
